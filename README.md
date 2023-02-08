@@ -1,6 +1,4 @@
 
-		Designer = {"Backdrop", "Image", "Info", "Credit"}
-	}
 	function resolvevararg(objtype, ...)
 		local data = varargresolve[objtype]
 		local t = {}
