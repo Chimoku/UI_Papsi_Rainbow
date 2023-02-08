@@ -1,4 +1,4 @@
-
+-- kuydum
 	function resolvevararg(objtype, ...)
 		local data = varargresolve[objtype]
 		local t = {}
